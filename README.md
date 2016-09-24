@@ -1,1 +1,1 @@
-# oracle-jdk-8u102
+# oracle-jdk:8u102
