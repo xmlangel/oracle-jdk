@@ -1,4 +1,4 @@
-FROM xmlangel/ubuntu-14.04
+FROM xmlangel/base-ubuntu14.04
 
 MAINTAINER Kwangmyung Kim <kwangmyung.kim@gmail.com>
 

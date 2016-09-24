@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build --rm -t oracle-jdk8u102 .
+docker build --rm -t oracle-jdk-8u102 .
